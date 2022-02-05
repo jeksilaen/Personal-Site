@@ -1,7 +1,11 @@
+html{
+  height: 100%;
+}
 body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  color: grey;
 }
 h1{
   color: #66BFBF;
@@ -19,12 +23,12 @@ h3{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
-p{
-  color: grey;
-}
 a{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
 }
 hr{
   border-style: dotted none none none;
@@ -32,7 +36,6 @@ hr{
   width: 10%;
   border-color: #EAF6F6;
   margin: 100px auto;
-
 }
 
 .top-container{
@@ -58,8 +61,8 @@ hr{
   margin-top: 50px;
 }
 .profile-desc{
-  display: inline-block;
   width: 400px;
+  margin: auto;
   line-height: 2;
 }
 .profile-picture{
