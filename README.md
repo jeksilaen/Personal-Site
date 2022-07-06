@@ -1,1 +1,1 @@
-Link : https://jeksilaen.github.io/Personal-Site/
+Link : https://jeksilaen.github.io/StyledCV/
